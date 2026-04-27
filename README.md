@@ -114,7 +114,7 @@ python praktikum_2.py
 
 ```
 praktikum_2/
-└── praktikum_2.py    # Source code utama
+└── praktikum_2.py    # source code
 ```
 
 ---
