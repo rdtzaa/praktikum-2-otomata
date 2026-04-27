@@ -33,9 +33,10 @@ Program harus memiliki user interface yang memudahkan pengguna untuk menginputka
 | State | Keterangan |
 |-------|------------|
 | **S** | Start state (initial state) |
-<!-- | **A** | State setelah membaca `0` dari S | -->
 | **B** | Final state — string diterima jika berakhir di sini |
 | **C** | Dead/trap state — dicapai saat muncul substring `00` |
+<!-- | **A** | State setelah membaca `0` dari S | -->
+
 
 ### Tabel Transisi
 
