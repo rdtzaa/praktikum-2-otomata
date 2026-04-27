@@ -101,12 +101,12 @@ python praktikum_2.py
 
 ## 🖥️ Fitur Program
 
-- **Visualisasi FSM** — diagram state ditampilkan secara grafis di canvas
-- **Step-by-step execution** — pengguna dapat melihat transisi state satu per satu
-- **Highlight state** — state yang sedang dikunjungi disorot dengan warna hijau
-- **Indikator karakter saat ini** — karakter yang sedang diproses ditandai dengan kurung siku `[x]`
-- **Validasi input** — program menolak input yang bukan string biner
-- **Pop-up hasil** — menampilkan popup Accepted/Rejected beserta final state
+- **Visualisasi FSM** : diagram state ditampilkan secara grafis di canvas
+- **Step-by-step execution** : pengguna dapat melihat transisi state satu per satu
+- **Highlight state** : state yang sedang dikunjungi disorot dengan warna hijau
+- **Indikator karakter saat ini** : karakter yang sedang diproses ditandai dengan kurung siku `[x]`
+- **Validasi input** : program menolak input yang bukan string biner
+- **Pop-up hasil** : menampilkan popup Accepted/Rejected beserta final state
 
 ---
 
